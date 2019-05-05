@@ -10,11 +10,11 @@ A ideia é simular as queries sem precisar executar as *K* rotações cíclicas.
 
 ### Problema C - Nearest vectors
 
-aqui
+Utilizar a ordenação radial baseada no ponto *(0,0)*, sort(p,p+n,polarless). Assim teremos o vetor ordenado em Clockwise ou Counterclockwise. Comparar \[a,b,c\] pontos, anguloAB com anguloBC, utilizando a função angleLess. 
 
 ### Problema D - Igor In the Museum
 
-aqui
+Utilizar um algoritmo de Busca em Grafos para pre processar todos os "blocos de quadros". Faremos uma matriz auxiliar de coloração. Pra cada bloco existe um cor diferente. Pra cada cor (bloco de quadro) calculamos o algoritmo de Busca o número de quadros, para cada query somente retornaremos o resultado.
 
 ### Problema E - Chocolate Bar
 
