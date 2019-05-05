@@ -10,10 +10,16 @@ A ideia é simular as queries sem precisar executar as *K* rotações cíclicas.
 
 ### Problema C - Nearest vectors
 
+aqui
+
 ### Problema D - Igor In the Museum
+
+aqui
 
 ### Problema E - Chocolate Bar
 
+aqui
+
 ### Problema F - Cut Length
 
-~~~ Em falta ~~~
+Teste
