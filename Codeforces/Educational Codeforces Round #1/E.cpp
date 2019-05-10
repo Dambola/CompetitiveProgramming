@@ -25,9 +25,9 @@ int main(){
 		for(int j = 1; j < MAXM; j++){
 			for(int k = 1; k <= min(i*j,50); k++){
 				if(k == i*j) continue;
-				
+
 				dp[i][j][k]	= INF;
-				
+
 				/// Horizontal
 				for(int h = 1; h < j; h++){
 					for(int c = 0; c <= k; c++){
